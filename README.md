@@ -1,11 +1,11 @@
 # Fall 2022 - 3D Slicer Workshop UCAD
-This 3D Slicer Training Workshop at University Cheikh Anta Diop is a full day course that combines a series of lectures and hands-on sessions using the 3D Slicer software.
+This Fall 2022 3D Slicer Training Workshop at University Cheikh Anta Diop is a full day course that combines a series of lectures and hands-on sessions using the 3D Slicer software.
 
-Workshop Organizers
+#Workshop Organizers
 Sonia Pujol, PhD, Brigham and Women's Hospital, Harvard Medical School
 Mamadou Camara, PhD, University Cheikh Anta Diop
 
-Tentative Agenda
+#Tentative Agenda
 9:00-9:15 am Welcome and Goals of the Workshop (Mamadou Camara)
 9:15-9:45 am Introduction to the 3D Slicer Software (Sonia Pujol)
 9:45-11:15 am Hands-on Session #1: Data Loading and Visualization
