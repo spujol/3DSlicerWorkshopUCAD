@@ -24,5 +24,5 @@ Welcome to the Fall 2022 3D Slicer Training Workshop at University Cheikh Anta D
 # Logistics
 * Date: Fall 2022 
 * Location: Department of Computer Science, Cheikh Anta Diop University
-* Workshop Materials: In preparation for the hands-on sessions, all participants are require to download [3D Slicer version 5.0.1] (https://download.slicer.org/).
+* Workshop Materials: In preparation for the hands-on sessions, all participants are require to download [3D Slicer version 5.0.3](https://download.slicer.org/) 
 
